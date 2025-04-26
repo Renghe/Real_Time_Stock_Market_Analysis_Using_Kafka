@@ -1,6 +1,6 @@
 # Real_Time_Stock_Market_Analysis_Using_Kafka - Data Engineering Project
 
-Different technologies used are Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL.
+This project demonstrates a real-time stock market data pipeline using Apache Kafka, AWS Glue, and Amazon Athena to stream, process, transform, and query massive amounts of live stock data efficiently.
 
 ## Architecture 
 <img src="Architecture.jpg">
@@ -14,5 +14,15 @@ Different technologies used are Python, Amazon Web Services (AWS), Apache Kafka,
 4. Glue Catalog
 5. EC2
 - Apache Kafka
+
+  
+📚 Key Features
+Kafka-based real-time producer and consumer scripts.
+
+ETL scripts using AWS Glue for data cleaning and transformation.
+
+S3 data lake for scalable storage.
+
+Athena for fast, serverless SQL querying on big data.
 
  
