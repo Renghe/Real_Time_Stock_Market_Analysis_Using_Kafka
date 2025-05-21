@@ -14,7 +14,7 @@ This project demonstrates a real-time stock market data pipeline using Apache Ka
   4. Glue Catalog
   5. EC2
 - Apache Kafka
-- Zookeeper
+
   
 📚 Key Features
 Kafka-based real-time producer and consumer scripts.
